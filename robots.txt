@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shuedaela.billkidwell.com/sitemap.xml
